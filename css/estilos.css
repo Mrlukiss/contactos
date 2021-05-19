@@ -1,0 +1,38 @@
+body{
+   
+    background-color: #ccc;   /*color en codigo hexadecimal o rgb*/
+    
+    background-size: 1400px 700px;   /*contain, cover, pixel,porcentaje*/
+    
+    background-image: url(imagenes/ppp.jpg);
+    
+    background-repeat: no-repeat;   /*no-repeat , repeat*/
+    
+    background-attachment: fixed;   /* scroll, fixed*/
+    
+    }
+body {
+    padding-left: 15em;
+    font-size: 1em;
+ color:              black;
+font-family:         "Cooper Black", "Times New Roman", 
+                     "Brush Script MT", "Arial black";
+}
+h1{
+    font-size: 1.7em;
+    color:           red;
+    font-family: "Arial Black", "Brush Script MT", "Comic Sans MS";
+}
+h1.prin{
+    font-size: 5em;
+    color:           blue;
+    font-family:     "Brush Script MT", "Comic Sans Ms";
+}
+
+ul.barnav {
+    position: absolute;
+    background-color: wheat;
+    top: 1em;
+    left: 1em;
+    width: 11em;
+}
